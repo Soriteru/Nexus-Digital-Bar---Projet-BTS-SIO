@@ -13,7 +13,7 @@ Pour ce premier projet dans mon parcours de développeur, j'ai utilisé une stac
 | **Backend & Database** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ## 📌 État d'avancement du projet
-- [x] Initialisation du dépôt & Structure Git
+- [x] Structure de base & Navigation
 - [/] Barre de navigation & Page d'accueil (Index) 🏗️ *En cours*
 
 ---
