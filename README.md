@@ -5,7 +5,7 @@ Bienvenue sur mon dépôt du projet **Nexus Digital**, un bar gaming rétrofutur
 ## 🚀 Le Projet
 L'objectif de ce projet est de concevoir un site web complet autour d'un univers spécifique : le gaming. Alliant modernité et rétrogaming, la plateforme propose une immersion totale au travers d'une page d'accueil dédiée, d'une carte interactive des menus, ainsi qu'une section retraçant l'histoire du bar et un fil d'actualités sur l'univers vidéoludique d'hier et d'aujourd'hui.
 
-## 🛠️ Technologies utilisées
+## 🛠️ Stack Technique
 Pour ce premier projet dans mon parcours de développeur, j'ai utilisé une stack complète :
 
 | Frontend | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
